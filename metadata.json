@@ -1,0 +1,6 @@
+{
+  "name": "EShare TV Remote",
+  "description": "Smart TV Remote, Air Mouse, Touchpad and Screen Mirroring for Android TV Box and Mobile devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

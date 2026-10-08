@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EShare TV Remote</string>
+    <string name="app_name_kurdish">کۆنتڕۆڵی زیرەکی تیڤی</string>
+    <string name="role_title">دیاریکردنی جۆری ئامێر</string>
+    <string name="role_subtitle">ئەم ئامێرە وەک کامەیان کار بکات؟</string>
+    <string name="role_mobile">مۆبایل (کۆنتڕۆڵ و ماوس)</string>
+    <string name="role_mobile_desc">مۆبایلەکەت بکە ماوس، تەختەی تاچ، کۆنتڕۆڵ و شاشەی تیڤی لەسەر مۆبایل ببینە</string>
+    <string name="role_tv">تیڤی بۆکس (وەرگر / TV Box)</string>
+    <string name="role_tv_desc">وەرگرتنی فەرمانەکانی کۆنتڕۆڵ، پیشاندانی ماوس، پەخشی شاشە و بەرنامەکان</string>
+    <string name="tab_remote">کۆنتڕۆڵ</string>
+    <string name="tab_touchpad">ماوس و تاچ</string>
+    <string name="tab_mirror">شاشەی تیڤی</string>
+    <string name="tab_apps">بەرنامەکان</string>
+    <string name="tab_numpad">ژمارەکان</string>
+    <string name="connect">پەیوەستبوون</string>
+    <string name="connected">پەیوەستکراوە</string>
+    <string name="disconnected">پەیوەست نییە</string>
+    <string name="searching">گەڕان بەدوای تیڤی...</string>
+    <string name="enter_tv_ip">ناونیشانی IP تیڤی بنووسە</string>
+    <string name="air_mouse">ماوسی هەوایی (Air Mouse)</string>
+    <string name="air_mouse_desc">مۆبایل بجوڵێنە بۆ جوڵاندنی ماوس لەسەر تیڤی</string>
+</resources>

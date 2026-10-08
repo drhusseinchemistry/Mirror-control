@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- TV Screen Monitor Frame -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M27,27 L81,27 A4,4 0 0,1 85,31 L85,63 A4,4 0 0,1 81,67 L27,67 A4,4 0 0,1 23,63 L23,31 A4,4 0 0,1 27,27 Z" />
+    <!-- TV Inner Display -->
+    <path
+        android:fillColor="#090D16"
+        android:pathData="M26,30 L82,30 L82,62 L26,62 Z" />
+    <!-- TV Stand -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M51,67 L57,67 L59,73 L49,73 Z M43,73 L65,73 L65,75 L43,75 Z" />
+    <!-- Wireless Cast Waves inside TV -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M38,38 A16,16 0 0,1 54,42 L52,44 A13,13 0 0,0 40,40 Z M38,44 A10,10 0 0,1 48,47 L46,49 A7,7 0 0,0 40,46 Z" />
+    <!-- Remote Controller Device (overlapping on right side) -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M59,45 L77,45 A4,4 0 0,1 81,49 L81,81 A4,4 0 0,1 77,85 L59,85 A4,4 0 0,1 55,81 L55,49 A4,4 0 0,1 59,45 Z" />
+    <!-- Remote D-pad circle -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M68,58 A6,6 0 1,1 67.9,58 Z" />
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M68,58 A2.5,2.5 0 1,1 67.9,58 Z" />
+    <!-- Remote Buttons -->
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M59,68 L64,68 L64,71 L59,71 Z M72,68 L77,68 L77,71 L72,71 Z M59,74 L64,74 L64,77 L59,77 Z M72,74 L77,74 L77,77 L72,77 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M68,48 A2,2 0 1,1 67.9,48 Z" />
+    <!-- Mouse Cursor Pointer -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M33,48 L44,53 L39,55 L42,61 L40,62 L37,56 L33,60 Z" />
+</vector>
